@@ -1,2 +1,2 @@
 # AW_Chltes_PBI
-Project for Sales Dashboard Report For Awesome Chocolates
+Project as Sales Dashboard Report For Awesome Chocolates
